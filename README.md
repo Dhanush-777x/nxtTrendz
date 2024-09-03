@@ -1,6 +1,6 @@
-# eCommerce Site
+# Nxt Trendz
 
-Welcome to the eCommerce Site project! This application is built using React for the frontend and Node.js with Express for the backend, providing a seamless shopping experience. It incorporates JWT (JSON Web Tokens) for secure authentication.
+Welcome to the Nxt Trendz! This application is built using React for the frontend and Node.js with Express for the backend, providing a seamless shopping experience. It incorporates JWT (JSON Web Tokens) for secure authentication.
 
 ## Table of Contents
 
