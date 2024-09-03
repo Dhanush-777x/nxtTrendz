@@ -6,6 +6,7 @@ Welcome to the Nxt Trendz! This application is built using React for the fronten
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Credentials](#credentials)
 
 ## Features
 
@@ -21,10 +22,19 @@ Welcome to the Nxt Trendz! This application is built using React for the fronten
 - **Frontend:**
   - React
   - CSS
-  - Axios (for API requests)
 
 - **Backend:**
   - Node.js
   - Express
-  - MongoDB (or any other database you used)
   - JWT (for authentication)
+ 
+## Credentials
+  - **Prime User**
+    -Username: rahul
+    -Password: rahul@2021
+  - **Non Prime User**
+    -Username: raja
+    -Password: raja@2021
+ 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details. Thank you for checking out the Nxt Trendz! Feel free to reach out with any questions or feedback.
