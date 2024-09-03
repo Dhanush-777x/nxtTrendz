@@ -2,6 +2,9 @@
 
 Welcome to the Nxt Trendz! This application is built using React for the frontend and Node.js with Express for the backend, providing a seamless shopping experience. It incorporates JWT (JSON Web Tokens) for secure authentication.
 
+[Nxt Trendz Screenshot - 1](https://github.com/Dhanush-777x/nxtTrendz/blob/main/public/img/nxtTrendz-1.png)
+
+
 ## Table of Contents
 
 - [Features](#features)
@@ -16,6 +19,9 @@ Welcome to the Nxt Trendz! This application is built using React for the fronten
 - Secure checkout process
 - Responsive design for mobile and desktop
 - User profile management
+
+
+[Nxt Trendz Screenshot - 2](https://github.com/Dhanush-777x/nxtTrendz/blob/main/public/img/nxtTrendz-2.png)
 
 ## Technologies Used
 
